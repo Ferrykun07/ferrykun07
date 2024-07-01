@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# My GitHub Profile
+--># My GitHub Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrykun07&show_icons=true&theme=line&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrykun07&show_icons=true&theme=line)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrykun07&cache_seconds=1&theme=line&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
-
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrykun07&layout=compact&theme=line)
