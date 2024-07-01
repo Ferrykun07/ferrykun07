@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # My GitHub Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrykun07&show_icons=true&theme=radical&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferrykun07&show_icons=true&theme=line&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrykun07&cache_seconds=1&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN&theme=line)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrykun07&hide=javascript,html&cache_seconds=1&theme=line&token=YOUR_NEW_PERSONAL_ACCESS_TOKEN)
+
